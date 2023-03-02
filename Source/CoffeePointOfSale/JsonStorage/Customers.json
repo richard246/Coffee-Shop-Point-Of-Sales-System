@@ -1,0 +1,31 @@
+{
+  "Customers": {
+
+    "anonymous": {
+      "Phone": "anonymous",
+      "RewardPoints": 0,
+      "Orders": []
+    },
+    "123-456-7890": {
+      "Name": "Richard Thomas",
+      "Phone": "123-456-7890",
+      "RewardPoints": 95,
+      "Orders": []
+    },
+    "098-765-4321": {
+      "Name": "Mike Long",
+      "Phone": "098-765-4321",
+      "RewardPoints": 10000,
+      "Orders": []
+    },
+    "800-867-5309": {
+      "Name": "Phil tower",
+      "Phone": "800-867-5309",
+      "RewardPoints": 10000,
+      "Orders": []
+
+    }
+
+  }
+
+}
